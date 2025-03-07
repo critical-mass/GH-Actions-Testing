@@ -18,10 +18,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up Docker buildx
-        id: buildx
-        uses: docker/setup-buildx-actions@v3
-
       - name: Login to DockerHub
         uses: docker/login-action@v3
         with:
