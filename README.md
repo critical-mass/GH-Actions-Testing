@@ -7,3 +7,4 @@ You'll find workflows showcasing the following concepts:</p>
 3. Artifacts<br>
 4. Reusable Workflows<br>
 5. Debugging<br>
+6. Self Hosted Runners
